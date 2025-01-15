@@ -26,4 +26,11 @@ O **Wildbeast** é um projeto criado para demonstrar o uso do **CSS Grid** em la
 
 Este projeto tem como objetivo demonstrar a aplicação do **CSS Grid** na construção de layouts modernos e responsivos, proporcionando uma experiência de aprendizado para desenvolvedores iniciantes.
 
+## 📬 Contato
+
+Em caso de dúvidas ou sugestões, entre em contato:
+
+- **Email**: devgabrielsilveira@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/gabriel-silveira-67979b18a/
+
 Desenvolvido por Gabriel Silveira 🚀
